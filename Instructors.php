@@ -131,7 +131,7 @@ mysqli_select_db($conn,'tuteeHUT');
 <li class="nav-item"><a href="department.php" class="nav-link">Department</a></li>
 <li class="nav-item active "><a href="Instructors.php" class="nav-link">Instructors</a></li>
 <!--<li class="nav-item"><a href="general_quiz.php" class="nav-link">Quiz</a></li>-->
-<li class="nav-item" onclick="contact_change()"><a href="#contact" class="nav-link">Contact</a></li>
+<li class="nav-item" onclick="contact_change()"><a href="index.php#contact" class="nav-link">Contact</a></li>
 <li class="nav-item"><a href="signup_page.php" class="nav-link">SIGNUP</a></li>
 </ul>
 </div>
@@ -433,7 +433,7 @@ echo $val['paragraphs'];?>
 
 </div>
 </footer>
-<!-- loader -->
+<!-- loader 
 <div id="ftco-loader" class="fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"></circle><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"></circle></svg></div>
 <script src="./StudyLab_instructor - Free Bootstrap 4 Template by Colorlib_files/jquery.min.js.pagespeed.jm.xZH2zNe7lE.js.download"></script>
 <script src="./StudyLab_instructor - Free Bootstrap 4 Template by Colorlib_files/jquery-migrate-3.0.1.min.js+popper.min.js+bootstrap.min.js.pagespeed.jc.erZkhhbLI0.js.download"></script><script>eval(mod_pagespeed_2RG6nigRym);</script>
@@ -450,8 +450,29 @@ echo $val['paragraphs'];?>
 <script src="./StudyLab_instructor - Free Bootstrap 4 Template by Colorlib_files/js"></script>
 <script>eval(mod_pagespeed_SeO09j3m4K);</script>
 <script>eval(mod_pagespeed_ICRlmQwWHo);</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+ Global site tag (gtag.js) - Google Analytics 
 <script async="" src="./StudyLab_instructor - Free Bootstrap 4 Template by Colorlib_files/js(1)"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-23581568-13');</script>
+-->
+<div id="ftco-loader" class="fullscreen" style="background-color: #010217"></div>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery-migrate-3.0.1.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/popper.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/bootstrap.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery.easing.1.3.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery.waypoints.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery.stellar.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/owl.carousel.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery.magnific-popup.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/jquery.animateNumber.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/bootstrap-datepicker.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/scrollax.min.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/js"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/google-map.js.download"></script>
+<script src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/main.js.download"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/js(1)"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-23581568-13');</script>
 
 </body></html>
+
