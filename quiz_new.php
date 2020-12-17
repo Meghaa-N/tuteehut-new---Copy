@@ -4,7 +4,7 @@ include "config.php";
 /*echo $_SESSION['user_id'];
 echo $_SESSION['event'];*/
 
-
+/*if this comes it is good*/
 if(isset($_SESSION['event'])&& isset($_SESSION['user_id'])  ){
   $sql="select * from log where user_id=$_SESSION[user_id] and event_id=$_SESSION[event]";
 $temp=mysqli_query($con,$sql);
