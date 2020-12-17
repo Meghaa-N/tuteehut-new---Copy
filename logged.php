@@ -192,17 +192,17 @@ echo $val['paragraphs'];
 </section>
 
 
-<section class="ftco-section ftco-about img" id="about" onmouseover="about_change()" onmouseout="home_change()" style="border-left: 50px solid #010217">
+<section class="ftco-section ftco-about img" id="about" style="border-left: 50px solid #010217" onmouseover="about_change()" onmouseout="home_change()">
 <div class="container" >
 <div class="row d-flex">
 <div class="col-md-12 about-intro">
 <div class="row">
-<div class="col-md-6 d-flex" >
-<div class="d-flex about-wrap" style="min-height: 400px">
+<div class="col-md-6 d-flex" style="max-width:30%">
+<div class="d-flex about-wrap" style="min-height: 400px;margin: 0;border-right:0">
 <img  class="img d-flex align-items-center justify-content-center" src="admin_console/home/<?php $sql="select name from images where position='about1'";
       $result=mysqli_query($conn,$sql);
           $val = mysqli_fetch_assoc($result);
-             echo $val['name'];?>" style="background-size: cover;min-height: 400px;width: 300px">
+             echo $val['name'];?>" style="background-size: cover;min-height: 400px;min-width: 300px;max-width: 100%">
 <!--<div class="img-2 d-flex align-items-center justify-content-center" style="background-image:url(admin_console/home/<?php $sql="select name from images where position='about2'";
       $result=mysqli_query($conn,$sql);
           $val = mysqli_fetch_assoc($result);
@@ -210,15 +210,15 @@ echo $val['paragraphs'];
 </div>-->
 </div>
 </div>
-<div class="col-md-6 pl-md-5 py-5">
+<div class="col-md-6 pl-md-5 py-5" style="min-width: 67%">
 <div class="row justify-content-start pb-3">
-<div class="col-md-12 heading-section ftco-animate">
+<div class="col-md-12 heading-section ftco-animate" >
 <!--<span class="subheading" id="aboutus"><?php $sql="SELECT paragraphs FROM home where headings='about_subtext'";
 $result=mysqli_query($conn,$sql);
 $val = mysqli_fetch_assoc($result);
 echo $val['paragraphs'];?></span>-->
 <h2 class="mb-4" style="font-weight: 900">GET TO KNOW US</h2>
-<p style="white-space: pre-line">
+<p style="white-space: pre-line;color:#010217" style="column-width: 60%">
   <?php 
 $sql="SELECT paragraphs FROM home where headings='About_definition'";
 $result=mysqli_query($conn,$sql);
