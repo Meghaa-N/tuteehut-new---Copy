@@ -28,7 +28,6 @@ $quizid = $_SESSION['event'];
     border-color: #010217;
   }
 </style>
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/css" rel="stylesheet">
 <link rel="stylesheet" href="./StudyLab - Free Bootstrap 4 Template by Colorlib_files/font-awesome.min.css">
