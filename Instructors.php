@@ -149,7 +149,7 @@ mysqli_select_db($conn,'tuteeHUT');
 
 <!--<p class="breadcrumbs"><span class="mr-2"><a href="https://preview.colorlib.com/theme/studylab/index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span>Certified Instructor <i class="fa fa-chevron-right"></i></span></p>-->
 
-<h1 class="mb-0 bread">INSTRUCTORS</h1>
+<h1 class="mb-0 bread">INSTRUCTOR</h1>
 <h2 class="mb-0 bread" style="color: white; ">Get to know your Instructors!!</h2>
 </div>
 </div>
