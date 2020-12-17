@@ -1,0 +1,7 @@
+<head><link rel="icon" href="favicon.ico" type="image/icon type"></head>
+<?php
+session_start();
+session_destroy();
+echo '<script>';
+   echo "window.location.href = '../home/admin_login.php';</script>";
+  ?>

@@ -1,0 +1,44 @@
+Uri: https://colorlib.com/preview/
+File Name: E:\tuteehut\colorlib.com\preview\index.htm
+Content Type: text/html
+
+Uri: https://colorlib.com/preview/assets/css/bootstrap.min.css
+File Name: E:\tuteehut\colorlib.com\preview\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://colorlib.com/preview/assets/css/template.css
+File Name: E:\tuteehut\colorlib.com\preview\assets\css\template.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.css
+File Name: E:\tuteehut\colorlib.com\ajax\libs\font-awesome\3.2.1\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300
+File Name: E:\tuteehut\colorlib.com\css.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-SEKJ4E9T4H
+File Name: E:\tuteehut\colorlib.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://colorlib.com/preview/assets/img/logo.png
+File Name: E:\tuteehut\colorlib.com\preview\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+File Name: E:\tuteehut\colorlib.com\ajax\libs\jquery\1.12.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://colorlib.com/preview/assets/js/products.js
+File Name: E:\tuteehut\colorlib.com\preview\assets\js\products.js
+Content Type: application/javascript
+
+Uri: https://colorlib.com/preview/assets/js/application.min.js
+File Name: E:\tuteehut\colorlib.com\preview\assets\js\application.min.js
+Content Type: application/javascript
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: E:\tuteehut\colorlib.com\tag\js\gpt.js
+Content Type: text/javascript
+
